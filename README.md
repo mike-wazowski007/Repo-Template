@@ -196,7 +196,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [issues-shield]: https://img.shields.io/github/issues/stiliajohny/Repo-Template.svg?style=flat-square
 [issues-url]: https://github.com/stiliajohny/Repo-Template/issues
 [license-shield]: https://img.shields.io/github/license/stiliajohny/Repo-Template.svg?style=flat-square
-[license-url]: https://github.com/stiliajohny/Repo-Template/blob/master/LICENSE.md
+[license-url]: https://github.com/stiliajohny/Repo-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/stiliajohny
 [product-screenshot]: .assets/screenshot.png

@@ -23,9 +23,9 @@
     <br />
     <a href="https://github.com/stiliajohny/Repo-Template">View Demo</a>
     ·
-    <a href="https://github.com/stiliajohny/Repo-Template/issues/new">Report Bug</a>
+    <a href="https://github.com/stiliajohny/Repo-Template/issues/new?labels=i%3A+bug&template=1-bug-report.md">Report Bug</a>
     ·
-    <a href="https://github.com/stiliajohny/Repo-Template/issues/new">Request Feature</a>
+    <a href="https://github.com/stiliajohny/Repo-Template/issues/new?labels=i%3A+enhancement&template=2-feature-request.md">Request Feature</a>
   </p>
 </p>
 

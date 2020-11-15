@@ -23,9 +23,9 @@
     <br />
     <a href="https://github.com/stiliajohny/Repo-Template">View Demo</a>
     ·
-    <a href="./issues/new">Report Bug</a>
+    <a href="https://github.com/stiliajohny/Repo-Template/issues/new">Report Bug</a>
     ·
-    <a href="./issues/new">Request Feature</a>
+    <a href="https://github.com/stiliajohny/Repo-Template/issues/new">Request Feature</a>
   </p>
 </p>
 
@@ -140,7 +140,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](./issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/stiliajohny/Repo-Template/issues) for a list of proposed features (and known issues).
 
 ---
 

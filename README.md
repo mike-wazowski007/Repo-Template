@@ -2,7 +2,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![GPL3 License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Ask Me Anything][ask-me-anything]][personal-page]
 
@@ -162,7 +162,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GPL-3.0 License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 
